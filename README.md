@@ -1,5 +1,5 @@
 # Python版Minecraft
-本项目为Minecraft3D的简和体中文版本。
+本项目为Minecraft3D的简体中文版本。
 
 
 ## PYMC启动器
